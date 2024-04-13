@@ -1,0 +1,1076 @@
+[
+    {
+        "state": "open",
+        "data": "Danh mục báo cáo",
+        "children": [
+            {
+                "state": null,
+                "data": "1. NHÀ PHÂN PHỐI",
+                "children": [
+                    {
+                        "state": null,
+                        "data": "1.1 Thống kê tình hình đặt hàng tại NPP",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "1.1 Thống kê tình hình đặt hàng tại NPP",
+                            "id": "REPORT_TINH_HINH_DAT_HANG",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/debit/tkthdh"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "1.2 Bảng kê trạng thái đơn đặt hàng của NPP",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "1.2 Bảng kê trạng thái đơn đặt hàng của NPP",
+                            "id": "REPORT_PURCHASEORDER",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/debit/purchaseorder"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "1.3 Bảng kê trạng thái tiền đang chuyển",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "1.3 Bảng kê trạng thái tiền đang chuyển",
+                            "id": "REPORT_CASTINTRANSIT",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/debit/castInTransit"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "1.4 Bảng kê chi tiết công nợ NPP",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "1.4 Bảng kê chi tiết công nợ NPP",
+                            "id": "REPORT_RECONCILIATION",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/debit/reconciliation"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "1.5 Bảng kê chi tiết nhập xuất tồn kho NPP",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "1.5 Bảng kê chi tiết nhập xuất tồn kho NPP",
+                            "id": "IDP_BCNPP_3_2",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/stock/xntct"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "1.6 Báo cáo nhập xuất tồn kho NPP",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "1.6 Báo cáo nhập xuất tồn kho NPP",
+                            "id": "DETAIL_INVENTORY",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/stock/detail_inventory_report"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "1.7 Báo cáo nhập xuất tồn kho khách hàng",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "1.7 Báo cáo nhập xuất tồn kho khách hàng",
+                            "id": "REPORT_PO_BCNXTK",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_0d5_bcctnxtk"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "1.8 Bảng kê sản lượng khuyến mãi ngày",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "1.8 Bảng kê sản lượng khuyến mãi ngày",
+                            "id": "REPORT_PO_1_2_SLKMN",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_1d2_slkmsptn"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "1.9 Bảng kê sản lượng khuyến mãi NPP",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "1.9 Bảng kê sản lượng khuyến mãi NPP",
+                            "id": "REPORT_PO_1_3_SLKMTNPP",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_1d3_slkmtnpp"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "1.10 Bảng quyết toán hàng khuyến mãi",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "1.10 Bảng quyết toán hàng khuyến mãi",
+                            "id": "RP_CN",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/debit/qthkm"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "1.11 Báo cáo hàng hỏng trả về",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "1.11 Báo cáo hàng hỏng trả về",
+                            "id": "REPORT_SO_1_6",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_1d6_bchtv"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "1.12 Báo cáo hàng trả về mới",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "1.12 Báo cáo hàng trả về mới",
+                            "id": "REPORT16_NEW",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_1d6_htv"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "1.14 Báo cáo chi tiết đơn hàng",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "1.14 Báo cáo chi tiết đơn hàng",
+                            "id": "SO_DETAIL",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_order_detail"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "1.15 Báo cáo nhận hàng quá hạn",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "1.15 Báo cáo nhận hàng quá hạn",
+                            "id": "OVER_TIME",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_receive_over_on_time/info"
+                        }
+                    }
+                ],
+                "icon": null,
+                "attr": {
+                    "name": "1. NHÀ PHÂN PHỐI",
+                    "id": "VNS_DISTRIBUTOR",
+                    "contentItemId": null,
+                    "rel": null,
+                    "classStyle": null,
+                    "shopType": null,
+                    "url": null
+                }
+            },
+            {
+                "state": null,
+                "data": "2. SẢN LƯỢNG",
+                "children": [
+                    {
+                        "state": null,
+                        "data": "2.1 Kết quả tiêu thụ theo thị trường",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "2.1 Kết quả tiêu thụ theo thị trường",
+                            "id": "REPORT_KE_QUA_TIEU_THU_THI_TRUONG",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/kqttttt"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "2.2 Kết quả tiêu thụ toàn thị trường",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "2.2 Kết quả tiêu thụ toàn thị trường",
+                            "id": "REPORT_KE_QUA_TIEU_THU_TOAN_THI_TRUONG",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/kqttttta"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "2.3 Báo cáo tăng trưởng và thực hiện kế hoạch",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "2.3 Báo cáo tăng trưởng và thực hiện kế hoạch",
+                            "id": "RP_TT",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/stock/rpt-2d4-bcttthkh"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "2.4 Sản lượng bán ra theo ngày",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "2.4 Sản lượng bán ra theo ngày",
+                            "id": "REPORT_PO_2_5_BCSLBRTN",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/stock/rpt_2d5_bcslbrtn"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "2.5 Sản lượng tiêu thụ theo tuyến bán hàng",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "2.5 Sản lượng tiêu thụ theo tuyến bán hàng",
+                            "id": "REPORT_QUANTITY_DETAIL",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_2d7_sltt"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "2.6 Sản lượng bán ra lũy kế ngày",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "2.6 Sản lượng bán ra lũy kế ngày",
+                            "id": "REPORT_PO_2_8_BCSLBR",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_2d8_bcslbr"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "2.7 Phân tích sức mua theo sản phẩm",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "2.7 Phân tích sức mua theo sản phẩm",
+                            "id": "REPORT_PO_2_9_BCPTSMTSP",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_2d9_bcptsmtsp"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "2.8 Phân tích điểm bán theo sức mua",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "2.8 Phân tích điểm bán theo sức mua",
+                            "id": "REPORT_PO_2_10_BCTKDBTSM",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_2d10_bcptdbtsm"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "2.11 Tăng trưởng và hoàn thành kế hoạch năm MAT",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "2.11 Tăng trưởng và hoàn thành kế hoạch năm MAT",
+                            "id": "RPT_QUATITY_2_13",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_2d13_bcttvhtkhnMAT/info"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "2.12 Tổng sản lượng tiêu thụ hàng ngày",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "2.12 Tổng sản lượng tiêu thụ hàng ngày",
+                            "id": "RPT_QUANITTY_2_14",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_2d14_bctsltthn/info"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "2.13 Tăng trưởng và hoàn thành kế hoạch năm YTD",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "2.13 Tăng trưởng và hoàn thành kế hoạch năm YTD",
+                            "id": "RPT_QUANTITY_2_15",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_2d15_bcttvhtkhnMAT/info"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "2.14 Thống kê sức mua theo sản phẩm",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "2.14 Thống kê sức mua theo sản phẩm",
+                            "id": "RPT_2_16_TKSMTSP",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_2d16_bcptsmtsp"
+                        }
+                    }
+                ],
+                "icon": null,
+                "attr": {
+                    "name": "2. SẢN LƯỢNG",
+                    "id": "VNS_QUANTITY",
+                    "contentItemId": null,
+                    "rel": null,
+                    "classStyle": null,
+                    "shopType": null,
+                    "url": null
+                }
+            },
+            {
+                "state": null,
+                "data": "3. ĐIỂM BÁN",
+                "children": [
+                    {
+                        "state": null,
+                        "data": "3.1 Sắp xếp và in các danh mục trong DMS",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "3.1 Sắp xếp và in các danh mục trong DMS",
+                            "id": "REPORT_PO_3_1_SXVICDMTDMS",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_3d1_sxicdmDMS"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "3.2 Cấu trúc hệ thống khách hàng",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "3.2 Cấu trúc hệ thống khách hàng",
+                            "id": "REPORT_PO_3_2_DBTKDBNM",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_3d2_cthtkh"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "3.3 Thống kê khách hàng ngừng mua",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "3.3 Thống kê khách hàng ngừng mua",
+                            "id": "REPORT_PO_3_3",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_3d3_bctkdbnm"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "3.4 Phân tích điểm bán theo tần suất",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "3.4 Phân tích điểm bán theo tần suất",
+                            "id": "REPORT_PO_3_5_PTDBTTS",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_3d5_ptdbtts"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "3.5 Phân tích điểm bán và độ phủ",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "3.5 Phân tích điểm bán và độ phủ",
+                            "id": "REPORT_PO_3_6_PTDBVDP",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_3d6_ptdbvdp"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "3.6 Thẻ khách hàng",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "3.6 Thẻ khách hàng",
+                            "id": "REPORT_PO_3_7_DBTKH",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_3d7_dbtkh"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "3.7 Danh sách khách hàng gốc theo NPP",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "3.7 Danh sách khách hàng gốc theo NPP",
+                            "id": "REPORT_PO_3_8",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_3d8_dskhg"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "3.8 Thống kê số lượng khách hàng",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "3.8 Thống kê số lượng khách hàng",
+                            "id": "REPORT_CUSTOMER",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_3d9_tkslkh"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "3.10 Tuyến bán hàng",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "3.10 Tuyến bán hàng",
+                            "id": "REPORT_3_10",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_3d10_tuyenbanhang"
+                        }
+                    }
+                ],
+                "icon": null,
+                "attr": {
+                    "name": "3. ĐIỂM BÁN",
+                    "id": "CUSTOMER",
+                    "contentItemId": null,
+                    "rel": null,
+                    "classStyle": null,
+                    "shopType": null,
+                    "url": null
+                }
+            },
+            {
+                "state": null,
+                "data": "4. CÔNG TÁC THỊ TRƯỜNG",
+                "children": [
+                    {
+                        "state": null,
+                        "data": "4.1 Tổng hợp công việc theo tuần",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "4.1 Tổng hợp công việc theo tuần",
+                            "id": "REPORT_PLAN_WEEK",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/stock/rpt-plan-week"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "4.2 Tổng hợp công việc theo tháng",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "4.2 Tổng hợp công việc theo tháng",
+                            "id": "REPORT_PLAN_MONTH",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/stock/rpt-plan-month"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "4.3 Lịch công tác",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "4.3 Lịch công tác",
+                            "id": "REPORT_CAL_MONTH",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/stock/rpt-cal-month"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "4.4 Tổng hợp đánh giá và kiến nghị",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "4.4 Tổng hợp đánh giá và kiến nghị",
+                            "id": "REPORT_SUMMARY_SOLUTION",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/stock/rpt-summary-solution"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "4.5 Kiểm tra đánh giá thị trường",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "4.5 Kiểm tra đánh giá thị trường",
+                            "id": "APPRAISE_MARKET",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/appraise-market"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "4.6 Kế hoạch hành động tuần",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "4.6 Kế hoạch hành động tuần",
+                            "id": "WEEK_ACTION_PROGRAM",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/week-action-program"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "4.7 Báo cáo hàng lấn vùng",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "4.7 Báo cáo hàng lấn vùng",
+                            "id": "REPORT_OUTZONE",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_7d1_pbhlv"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "4.8 Báo cáo đào tạo nhân viên trên tuyến",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "4.8 Báo cáo đào tạo nhân viên trên tuyến",
+                            "id": "REPORT_TRAINING",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt-training"
+                        }
+                    }
+                ],
+                "icon": null,
+                "attr": {
+                    "name": "4. CÔNG TÁC THỊ TRƯỜNG",
+                    "id": "WEEK_TASK",
+                    "contentItemId": null,
+                    "rel": null,
+                    "classStyle": null,
+                    "shopType": null,
+                    "url": null
+                }
+            },
+            {
+                "state": null,
+                "data": "5. THANH TOÁN",
+                "children": [
+                    {
+                        "state": null,
+                        "data": "5.1 Bảng kê phụ cấp",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "5.1 Bảng kê phụ cấp",
+                            "id": "REPORT_PO_5_2_TTBKPC",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_5d2_bkpc"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "5.2 Báo cáo Roi",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "5.2 Báo cáo Roi",
+                            "id": "REPORT_PO_5_3_BKVC",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_5d3_bkvc"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "5.3 Bảng chấm công",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "5.3 Bảng chấm công",
+                            "id": "REPORT_TIME_SHEET",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_5d1_bcbcc"
+                        }
+                    }
+                ],
+                "icon": null,
+                "attr": {
+                    "name": "5. THANH TOÁN",
+                    "id": "VNS_PAYMENT",
+                    "contentItemId": null,
+                    "rel": null,
+                    "classStyle": null,
+                    "shopType": null,
+                    "url": null
+                }
+            },
+            {
+                "state": null,
+                "data": "6. CHỈ TIÊU THÁNG",
+                "children": [
+                    {
+                        "state": null,
+                        "data": "6.1 Bảng phân bổ chỉ tiêu NPP",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "6.1 Bảng phân bổ chỉ tiêu NPP",
+                            "id": "RPT_KPI_12_1",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_12d1_pbctnpp/info"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "6.2 Bảng giao và xét chỉ tiêu nhân viên bán hàng",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "6.2 Bảng giao và xét chỉ tiêu nhân viên bán hàng",
+                            "id": "RPT_KPI_9_1",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/kpi/kpi-9-1/info"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "6.3 Bảng xét hoàn thành chỉ tiêu trong tháng",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "6.3 Bảng xét hoàn thành chỉ tiêu trong tháng",
+                            "id": "RPT_KPI_9_2",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/kpi/kpi-9-2/info"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "6.4 Báo cáo KPI nhà phân phối chuẩn",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "6.4 Báo cáo KPI nhà phân phối chuẩn",
+                            "id": "RPT_KPI_9_5",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_9d5_kpinppchuan"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "6.5 Tổng hợp lương NVBH",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "6.5 Tổng hợp lương NVBH",
+                            "id": "RPT_SALARY_STAFF_SALE_9_4",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_9d4_thlnvbh/info"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "6.6 Tổng hợp xét hoàn thành chỉ tiêu",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "6.6 Tổng hợp xét hoàn thành chỉ tiêu",
+                            "id": "RPT_KPI_9_3",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_9d3_thxhtct/info"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "6.7 Báo cáo xét hoàn thành KPIs",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "6.7 Báo cáo xét hoàn thành KPIs",
+                            "id": "RPT_KPI_SUGGEST_COMPLETE",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_result_complete_KPI"
+                        }
+                    }
+                ],
+                "icon": null,
+                "attr": {
+                    "name": "6. CHỈ TIÊU THÁNG",
+                    "id": "REPORT_KPI_VNS",
+                    "contentItemId": null,
+                    "rel": null,
+                    "classStyle": null,
+                    "shopType": null,
+                    "url": null
+                }
+            },
+            {
+                "state": null,
+                "data": "9. BÁO CÁO KHÁC",
+                "children": [
+                    {
+                        "state": null,
+                        "data": "9.1 Tuyến - Lịch trình tuyến bán hàng",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "9.1 Tuyến - Lịch trình tuyến bán hàng",
+                            "id": "RPT_ROUTING_10D1",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_10d1_ltt/info"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "9.2 Tuyến - Báo cáo viếng thăm, ngoại tuyến, từ xa",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "9.2 Tuyến - Báo cáo viếng thăm, ngoại tuyến, từ xa",
+                            "id": "REPORT_VTNTTX_10_2",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_10d2_vtnttx"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "9.3 Thống kê hàng cận hạn sử dụng tại khách hàng",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "9.3 Thống kê hàng cận hạn sử dụng tại khách hàng",
+                            "id": "REPORT_TKCHSD_11_1",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_11d1_tkchsd"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "9.4 Thống kê hàng tồn kho tại khách hàng",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "9.4 Thống kê hàng tồn kho tại khách hàng",
+                            "id": "PRT_PRO_0_6",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/rpt_0d6_tkhtktkh/info"
+                        }
+                    }
+                ],
+                "icon": null,
+                "attr": {
+                    "name": "9. BÁO CÁO KHÁC",
+                    "id": "VNS_RPT_OTHERS",
+                    "contentItemId": null,
+                    "rel": null,
+                    "classStyle": null,
+                    "shopType": null,
+                    "url": null
+                }
+            },
+            {
+                "state": null,
+                "data": "7. KIỂM SOÁT",
+                "children": [
+                    {
+                        "state": null,
+                        "data": "7.1 Thời gian làm việc của NVBH",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "7.1 Thời gian làm việc của NVBH",
+                            "id": "REPORT_TGLVNVBH",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/superivse/tggt-nvbh"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "7.2 Báo cáo thời gian ghé thăm khách hàng",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "7.2 Báo cáo thời gian ghé thăm khách hàng",
+                            "id": "REPORT_THOIGIAN_GHETHAM_KH",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/tggtkh"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "7.3 Báo cáo không ghé thăm khách hàng trong tuyến",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "7.3 Báo cáo không ghé thăm khách hàng trong tuyến",
+                            "id": "REPORT_KHONG_GHETHAM_KH_TRONGTUYEN",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/ho/kgtkhtt"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "7.4 Báo cáo chốt ngày",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "7.4 Báo cáo chốt ngày",
+                            "id": "SHOP_LOCK",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/superivse/shoplock"
+                        }
+                    },
+                    {
+                        "state": null,
+                        "data": "7.5 Báo cáo thời gian tạm ngừng hoạt động",
+                        "children": [],
+                        "icon": null,
+                        "attr": {
+                            "name": "7.5 Báo cáo thời gian tạm ngừng hoạt động",
+                            "id": "REPORT_THOIGIAN_TATMAY",
+                            "contentItemId": null,
+                            "rel": null,
+                            "classStyle": null,
+                            "shopType": null,
+                            "url": "/report/superivse/bctgtm"
+                        }
+                    }
+                ],
+                "icon": null,
+                "attr": {
+                    "name": "7. KIỂM SOÁT",
+                    "id": "REPORT_KIEMSOAT",
+                    "contentItemId": null,
+                    "rel": null,
+                    "classStyle": null,
+                    "shopType": null,
+                    "url": null
+                }
+            }
+        ],
+        "icon": null,
+        "attr": {
+            "name": "",
+            "id": "",
+            "contentItemId": null,
+            "rel": null,
+            "classStyle": null,
+            "shopType": null,
+            "url": ""
+        }
+    }
+]
