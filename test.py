@@ -10,3 +10,5 @@ link_str_list = tree.xpath('''//span[text() = 'Xem thêm bài viết']/../@href'
 r = requests.get('https://mbasic.facebook.com' + link_str_list[0], cookies=cookies)
 with open('b.html', 'w', encoding='utf-8') as file:
     file.write(r.text)
+
+print(1)
