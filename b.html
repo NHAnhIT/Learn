@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script nomodule src="https://stephenlb.github.io/spoken/spoken.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <style>
+        .talkify-audio-control {
+            color: white;
+            }
+
+            .fa-2x {
+            font-size: 20px !important;
+            }
+
+            .talkify-control-center.attached .audio-loading {
+            height: 16px;
+            width: 16px;
+        }
+    </style>
+</head>
+<body>
+    
+    <section id="root">
+        <h3>
+            Please click me if the demo does not load automatically
+        </h3>
+        <p>
+        This is a short demo of the Talkify library. Let me describe some of my features.
+        </p>
+        <p>
+        I work for any elements, such as paragraphs, divs and many more. I also support many languages and cultures. You can see all our supported voices in our voice picker in the bottom right corner. We do however restric access to premium and exclusive voices here from JSfiddle.
+        </p>
+    </section>
+  
+    <script>
+    talkify.config.remoteService.host = 'https://talkify.net';
+    talkify.config.remoteService.apiKey = '46b32f4e-6b73-40ee-8ae1-4a17cb1b18f6';
+
+    talkify.config.ui.audioControls.enabled = true; //<-- Disable to get the browser built in audio controls
+    talkify.config.ui.audioControls.voicepicker.enabled = true;
+    talkify.config.ui.audioControls.container = document.getElementById("player-and-voices");
+    
+    $(document).ready(function() {
+    var player = new talkify.TtsPlayer()
+        .enableTextHighlighting()
+        .forceVoice({name: "Zira"});
+
+    var playlist = new talkify.playlist()
+        .begin()
+        .usingPlayer(player)
+        .withRootSelector('#root')
+        .withTextInteraction()
+        .build();
+    
+    playlist.play();
+    });
+
+    </script>
+</body>
+</html>
