@@ -5,3 +5,5 @@ while True:
         print(a)
     else:
         break
+
+print(1)
